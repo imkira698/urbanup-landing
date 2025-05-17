@@ -59,3 +59,11 @@ footer {
 .fade-up {
   animation: fadeUp 1s ease-out;
 }
+header {
+  padding: 10px;
+}
+
+.logo {
+  height: 50px;
+  width: auto;
+}
